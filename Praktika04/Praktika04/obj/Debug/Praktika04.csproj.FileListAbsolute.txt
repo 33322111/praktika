@@ -1,0 +1,11 @@
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\bin\Debug\Praktika04.exe.config
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\bin\Debug\Praktika04.exe
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\bin\Debug\Praktika04.pdb
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.Form1.resources
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.exe
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.pdb
+C:\Users\Андрей\Desktop\Иван\Praktika04\Praktika04\obj\Debug\Praktika04.SizeDialog.resources
